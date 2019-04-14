@@ -1,6 +1,8 @@
 # AzureSku
 A public repo containing all known Azure SkuId and SkuPartNumber mapped to their friendly name.
 
+At the moment this is still experimental, as I try and figure out what the best way of representing this data is. Everything is thus subject to change untill v1.0.0.
+
 ## How to use
 
 ```PowerShell
