@@ -5,9 +5,9 @@
     "SkuFriendlyName": "AUDIO CONFERENCING",
     "ServicePlans": [
       {
-        "SkuId": "3e26ee1f-8a5f-4d52-aee2-b81ce45c8f40",
-        "SkuPartNumber": "MCOMEETADV",
-        "SkuFriendlyName": "AUDIO CONFERENCING"
+        "ServicePlanId": "3e26ee1f-8a5f-4d52-aee2-b81ce45c8f40",
+        "ServicePlanName": "MCOMEETADV",
+        "ServicePlanFriendlyName": "AUDIO CONFERENCING"
       }
     ]
   },
@@ -17,9 +17,9 @@
     "SkuFriendlyName": "AAD_BASIC",
     "ServicePlans": [
       {
-        "SkuId": "c4da7f8a-5ee2-4c99-a7e1-87d2df57f6fe",
-        "SkuPartNumber": "AAD_BASIC",
-        "SkuFriendlyName": "MICROSOFT AZURE ACTIVE DIRECTORY BASIC"
+        "ServicePlanId": "c4da7f8a-5ee2-4c99-a7e1-87d2df57f6fe",
+        "ServicePlanName": "AAD_BASIC",
+        "ServicePlanFriendlyName": "MICROSOFT AZURE ACTIVE DIRECTORY BASIC"
       }
     ]
   },
@@ -29,19 +29,19 @@
     "SkuFriendlyName": "AAD_PREMIUM",
     "ServicePlans": [
       {
-        "SkuId": "41781fb2-bc02-4b7c-bd55-b576c07bb09d",
-        "SkuPartNumber": "AAD_PREMIUM",
-        "SkuFriendlyName": "AZURE ACTIVE DIRECTORY PREMIUM P1"
+        "ServicePlanId": "41781fb2-bc02-4b7c-bd55-b576c07bb09d",
+        "ServicePlanName": "AAD_PREMIUM",
+        "ServicePlanFriendlyName": "AZURE ACTIVE DIRECTORY PREMIUM P1"
       },
       {
-        "SkuId": "932ad362-64a8-4783-9106-97849a1a30b9",
-        "SkuPartNumber": "ADALLOM_S_DISCOVERY",
-        "SkuFriendlyName": "CLOUD APP SECURITY DISCOVERY"
+        "ServicePlanId": "932ad362-64a8-4783-9106-97849a1a30b9",
+        "ServicePlanName": "ADALLOM_S_DISCOVERY",
+        "ServicePlanFriendlyName": "CLOUD APP SECURITY DISCOVERY"
       },
       {
-        "SkuId": "8a256a2b-b617-496d-b51b-e76466e88db0",
-        "SkuPartNumber": "MFA_PREMIUM",
-        "SkuFriendlyName": "MICROSOFT AZURE MULTI-FACTOR AUTHENTICATION"
+        "ServicePlanId": "8a256a2b-b617-496d-b51b-e76466e88db0",
+        "ServicePlanName": "MFA_PREMIUM",
+        "ServicePlanFriendlyName": "MICROSOFT AZURE MULTI-FACTOR AUTHENTICATION"
       }
     ]
   }

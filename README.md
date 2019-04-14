@@ -33,7 +33,11 @@ SkuId                                SkuPartNumber       SkuFriendlyName
 
 I try to keep this list up-to-date as possible. If any new subscriptions and or sku's pop up. Please send the GUID, SkuPartNumber and the friendly name as shown in the Azure/O365 admin center.
 
-Or add it via a PR.
+To make it easy, run the following command:
+
+```PowerShell
+Get-AzureADSubscribedSku | select SkuId, SkuPartNumber, ServicePlans | ConvertTo-Json -Depth 4
+```
 
 ## Sources
 
