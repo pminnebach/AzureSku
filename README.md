@@ -36,7 +36,20 @@ I try to keep this list up-to-date as possible. If any new subscriptions and or 
 To make it easy, run the following command:
 
 ```PowerShell
-Get-AzureADSubscribedSku | select SkuId, SkuPartNumber, ServicePlans | ConvertTo-Json -Depth 4
+Get-AzureADSubscribedSku | ForEach-Object -Process {
+    [ordered]@{
+        SkuId = $_.SkuId
+        SkuPartNumber = $_.SkuPartNumber
+        Serviceplans = @(
+            foreach ($ServicePlan in $_.ServicePlans) {
+                [ordered]@{
+                    ServicePlanId = $ServicePlan.ServicePlanId
+                    ServicePlanName = $ServicePlan.ServicePlanName
+                }
+            }
+        )
+    }
+} | ConvertTo-Json -Depth 4
 ```
 
 ## Sources
