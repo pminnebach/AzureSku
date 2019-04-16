@@ -25,8 +25,8 @@ $Skus = @(
     }
     [ordered]@{
         SkuId           = '078d2b04-f1bd-4111-bbd4-b4b1b354cef4'
-        SkuPartNumber   = 'AZURE ACTIVE DIRECTORY PREMIUM P1'
-        SkuFriendlyName = 'AAD_PREMIUM'
+        SkuPartNumber   = 'AAD_PREMIUM'
+        SkuFriendlyName = 'AZURE ACTIVE DIRECTORY PREMIUM P1'
         ServicePlans    = @(
             [ordered]@{
                 ServicePlanId           = '41781fb2-bc02-4b7c-bd55-b576c07bb09d'

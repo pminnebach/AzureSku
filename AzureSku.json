@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "SkuId":  "0c266dff-15dd-4b49-8397-2bb16070ed52",
         "SkuPartNumber":  "MCOMEETADV",
@@ -25,8 +25,8 @@
     },
     {
         "SkuId":  "078d2b04-f1bd-4111-bbd4-b4b1b354cef4",
-        "SkuPartNumber":  "AZURE ACTIVE DIRECTORY PREMIUM P1",
-        "SkuFriendlyName":  "AAD_PREMIUM",
+        "SkuPartNumber":  "AAD_PREMIUM",
+        "SkuFriendlyName":  "AZURE ACTIVE DIRECTORY PREMIUM P1",
         "ServicePlans":  [
                              {
                                  "ServicePlanId":  "41781fb2-bc02-4b7c-bd55-b576c07bb09d",
