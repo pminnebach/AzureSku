@@ -162,5 +162,183 @@
                                  "ServicePlanFriendlyName":  ""
                              }
                          ]
+    },
+    {
+        "SkuId":  "c5928f49-12ba-48f7-ada3-0d743a3601d5",
+        "SkuPartNumber":  "VISIOCLIENT",
+        "SkuFriendlyName":  "Visio Online Plan 2",
+        "Serviceplans":  [
+                             {
+                                 "ServicePlanId":  "da792a53-cbc0-4184-a10d-e544dd34b3c1",
+                                 "ServicePlanName":  "ONEDRIVE_BASIC",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "2bdbaf8f-738f-4ac7-9234-3c3ee2ce7d0f",
+                                 "ServicePlanName":  "VISIOONLINE",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "113feb6c-3fe4-4440-bddc-54d774bf0318",
+                                 "ServicePlanName":  "EXCHANGE_S_FOUNDATION",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "663a804f-1c30-4ff0-9915-9db84f0d1cea",
+                                 "ServicePlanName":  "VISIO_CLIENT_SUBSCRIPTION",
+                                 "ServicePlanFriendlyName":  ""
+                             }
+                         ]
+    },
+    {
+        "SkuId":  "6470687e-a428-4b7a-bef2-8a291ad947c9",
+        "SkuPartNumber":  "WINDOWS_STORE",
+        "SkuFriendlyName":  "Unknown",
+        "Serviceplans":  [
+                             {
+                                 "ServicePlanId":  "113feb6c-3fe4-4440-bddc-54d774bf0318",
+                                 "ServicePlanName":  "EXCHANGE_S_FOUNDATION",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "a420f25f-a7b3-4ff5-a9d0-5d58f73b537d",
+                                 "ServicePlanName":  "WINDOWS_STORE",
+                                 "ServicePlanFriendlyName":  ""
+                             }
+                         ]
+    },
+    {
+        "SkuId":  "c2273bd0-dff7-4215-9ef5-2c7bcfb06425",
+        "SkuPartNumber":  "OFFICESUBSCRIPTION",
+        "SkuFriendlyName":  "Office 365 ProPlus",
+        "Serviceplans":  [
+                             {
+                                 "ServicePlanId":  "159f4cd6-e380-449f-a816-af1a9ef76344",
+                                 "ServicePlanName":  "FORMS_PLAN_E1",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "113feb6c-3fe4-4440-bddc-54d774bf0318",
+                                 "ServicePlanName":  "EXCHANGE_S_FOUNDATION",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+                                 "ServicePlanName":  "SHAREPOINTWAC",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "a23b959c-7ce8-4e57-9140-b90eb88a9e97",
+                                 "ServicePlanName":  "SWAY",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "882e1d05-acd1-4ccb-8708-6ee03664b117",
+                                 "ServicePlanName":  "INTUNE_O365",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "13696edf-5a08-49f6-8134-03083ed8ba30",
+                                 "ServicePlanName":  "ONEDRIVESTANDARD",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "43de0ff5-c92c-492b-9116-175376d08c38",
+                                 "ServicePlanName":  "OFFICESUBSCRIPTION",
+                                 "ServicePlanFriendlyName":  ""
+                             }
+                         ]
+    },
+    {
+        "SkuId":  "3b555118-da6a-4418-894f-7df1e2096870",
+        "SkuPartNumber":  "O365_BUSINESS_ESSENTIALS",
+        "SkuFriendlyName":  "Office 365 Business Essentials",
+        "Serviceplans":  [
+                             {
+                                 "ServicePlanId":  "33c4f319-9bdd-48d6-9c4d-410b750a4a5a",
+                                 "ServicePlanName":  "MYANALYTICS_P2",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "54fc630f-5a40-48ee-8965-af0503c1386e",
+                                 "ServicePlanName":  "KAIZALA_O365_P2",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "3c53ea51-d578-46fa-a4c0-fd0a92809a60",
+                                 "ServicePlanName":  "STREAM_O365_SMB",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "c63d4d19-e8cb-460e-b37c-4d6c34603745",
+                                 "ServicePlanName":  "OFFICEMOBILE_SUBSCRIPTION",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "5e62787c-c316-451f-b873-1d05acd4d12c",
+                                 "ServicePlanName":  "BPOS_S_TODO_1",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "159f4cd6-e380-449f-a816-af1a9ef76344",
+                                 "ServicePlanName":  "FORMS_PLAN_E1",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "0f9b09cb-62d1-4ff4-9129-43f4996f83f4",
+                                 "ServicePlanName":  "FLOW_O365_P1",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "92f7a6f3-b89b-4bbd-8c30-809e6da5ad1c",
+                                 "ServicePlanName":  "POWERAPPS_O365_P1",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "57ff2da0-773e-42df-b2af-ffb7a2317929",
+                                 "ServicePlanName":  "TEAMS1",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "b737dad2-2f6c-4c65-90e3-ca563267e8b9",
+                                 "ServicePlanName":  "PROJECTWORKMANAGEMENT",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "a23b959c-7ce8-4e57-9140-b90eb88a9e97",
+                                 "ServicePlanName":  "SWAY",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "882e1d05-acd1-4ccb-8708-6ee03664b117",
+                                 "ServicePlanName":  "INTUNE_O365",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+                                 "ServicePlanName":  "SHAREPOINTWAC",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "7547a3fe-08ee-4ccb-b430-5077c5041653",
+                                 "ServicePlanName":  "YAMMER_ENTERPRISE",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "9aaf7827-d63c-4b61-89c3-182f06f82e5c",
+                                 "ServicePlanName":  "EXCHANGE_S_STANDARD",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "0feaeb32-d00e-4d66-bd5a-43b5b83db82c",
+                                 "ServicePlanName":  "MCOSTANDARD",
+                                 "ServicePlanFriendlyName":  ""
+                             },
+                             {
+                                 "ServicePlanId":  "c7699d2e-19aa-44de-8edf-1736da088ca1",
+                                 "ServicePlanName":  "SHAREPOINTSTANDARD",
+                                 "ServicePlanFriendlyName":  ""
+                             }
+                         ]
     }
 ]
